@@ -1,0 +1,18 @@
+body {background-image:url("Dj3.jpg");background-size:Cover;background-position:center;color:white;font-family: 'Chakra Petch', sans-serif;}
+h1 {font-family: 'Orbitron', sans-serif;}
+button {font-family: 'Orbitron', sans-serif;border-radius:7px;border-color:aqua;border-style:groove;color:Skyblue;background-color:orangered;padding:6px;}
+h2 {text-shadow:6px 5px 4px Cyan;color:orange;}
+#DwD {width:200px;border-radius:100000px;}
+#AwA {float:left ;}
+#GwG {width:200px;border-radius:100000px;}
+#QwQ {float:right;}
+#IwI {color:skyblue;text-shadow:6px 5px 3px darkcyan;}
+#XwX {color:skyblue;text-shadow:6px 5px 3px darkcyan;}
+canvas {background-color:white;
+animation-name:Wazaaaaaaaaaaa;
+animation-duration:1s;
+animation-iteration-count:infinite;}
+@keyframes Wazaaaaaaaaaaa {
+from {box-shadow:7px 4px 7px skyblue;}
+to {box-shadow:7px 4px 7px darkcyan;}    
+}
